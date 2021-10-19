@@ -10,7 +10,7 @@
                   <img :src="require('@/assets/logo.png')" alt="DAO" />
                 </v-avatar>
                 <span class="title font-weight-light">
-                  DAO {{ $t("Available Amount") }}
+                  DAT {{ $t("Available Amount") }}
                 </span>
               </v-card-title>
               <v-card-text>
