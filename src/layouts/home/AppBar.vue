@@ -34,6 +34,14 @@
             text
             >{{ $t("DAO") }}</v-tab
           >
+          <!-- <v-tab
+            to="/dao-approve"
+            :ripple="false"
+            class="font-weight-bold"
+            min-width="96"
+            text
+            >{{ $t("DAOApprove") }}</v-tab
+          > -->
           <v-tab
             to="/dat"
             :ripple="false"
@@ -71,6 +79,9 @@
           <v-list-item to="/">
             <v-list-item-title>{{ $t("DAO") }}</v-list-item-title>
           </v-list-item>
+          <!-- <v-list-item to="/dao-approve">
+            <v-list-item-title>{{ $t("DAOApprove") }}</v-list-item-title>
+          </v-list-item> -->
           <v-list-item to="/dat">
             <v-list-item-title>{{ $t("DAT") }}</v-list-item-title>
           </v-list-item>

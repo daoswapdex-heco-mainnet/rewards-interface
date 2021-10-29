@@ -1,6 +1,9 @@
 export const CommunityRewardsDAOContractAddress =
   "0x5479CD65f4af18c5bAe850C75eAC3667c4ee56BD";
 
+export const CommunityRewardsDAOApproveContractAddress =
+  "0x95E387229CcEd7F015321BF468F44BE6B4f0e004";
+
 export const CommunityRewardsDATContractAddress =
   "0xf8F08f8712A5c0ed32fB0774e48e97e1081dB7b2";
 
